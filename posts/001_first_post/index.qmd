@@ -1,0 +1,19 @@
+---
+title: "First Post!"
+description: "A hellow world post to check if Quarto works as well as ipynb"
+author: "Vishwanath E.V.S. (vishevs@upenn.ed)"
+date: "2/2/2024"
+categories:
+  - Admin
+---
+
+## Title check
+
+Here, we see if markdown gets rendered properly. *Test*, **Test**. 
+
+```{python}
+
+print("Hello World! It's so good to see you!")
+
+```
+
